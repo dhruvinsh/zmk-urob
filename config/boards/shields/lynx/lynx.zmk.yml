@@ -1,0 +1,15 @@
+file_format: "1"
+id: lynx
+name: Lynx
+type: shield
+url: https://github.com/dhruvinsh/lynx
+requires:
+  - pro_micro
+exposes:
+  - nice_view
+features:
+  - keys
+  - display
+siblings:
+  - lynx_left
+  - lynx_right
